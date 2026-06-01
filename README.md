@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @quinguyendx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in embedded programming.
+- 🌱 I’m currently studying at FPT College.
+- 💞️ I’m looking to collaborate on embedded
+- 📫 How to reach me:
+  + Zalo: 0367269773
 
 <!---
 quinguyendx/quinguyendx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
