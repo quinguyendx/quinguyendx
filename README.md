@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quinguyendx
+- 👋 Hi, I’m @quinguyen
 - 👀 I’m interested in embedded programming.
 - 🌱 I’m currently studying at FPT College.
 - 💞️ I’m looking to collaborate on embedded
